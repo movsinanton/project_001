@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def game_core_v3(number: int = 1) -> int:
     """Подбор 'загаданного' числа с помощью алгоритма бинарного поиска.
     
