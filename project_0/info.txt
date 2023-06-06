@@ -1,0 +1,2 @@
+python ver 3.11.2
+winver win10LTSC x64ru 1809
